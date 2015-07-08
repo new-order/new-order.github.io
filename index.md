@@ -10,6 +10,7 @@ New Order is a Windows application allowing you to split your screens in zone, t
 Usage:
 
 * Download and run the setup [here](/Releases/Setup.exe). A new icon should appear in the system tray
+  ![Zone Editor](/images/screen-icon.png)
 * Click this icon to open the zone editor
   ![Zone Editor](/images/screen-home.png)
 * Add zones by clicking the zone splitting buttons

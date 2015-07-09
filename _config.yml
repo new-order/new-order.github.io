@@ -5,7 +5,7 @@ description: "New Order is a Windows application allowing you to split your scre
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://new-order.github.io/" # the base hostname & protocol for your site
 github_username:  theor
-exclude:
-  - Releases
+#exclude:
+#  - Releases
 # Build settings
 markdown: kramdown

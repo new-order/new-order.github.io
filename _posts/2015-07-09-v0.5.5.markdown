@@ -1,0 +1,7 @@
+---
+layout: post
+title: v0.5.5
+date: 2015-07-09
+categories: release
+---
+- Added auto-update check every 24h

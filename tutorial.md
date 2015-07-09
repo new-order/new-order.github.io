@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: Tutorial
 ---
 
-<!-- link [txtr](url) -->
 
 New Order is a Windows application allowing you to split your screens in zone, then move any window to a previously defined zone via a keyboard shortcut.
 

@@ -1,7 +1,7 @@
 # Site settings
 title: New Order
 # email: your-email@domain.com
-description: "New Order is a Windows application allowing you to split your screens in zone, then move any window to a previously defined zone via a keyboard shortcut."
+description: "New Order is a Windows application allowing you to split your screens in zone, then move any window to a previously defined zone via a keyboard shortcut. Made with WPF, Caliburn Micro, Squirrel and love."
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://new-order.github.io/" # the base hostname & protocol for your site
 github_username:  theor
